@@ -1,2 +1,2 @@
 # Language_Project
-A project to uncover feature for all language and help me take note
+A project to uncover feature for many languages and help me take notes
