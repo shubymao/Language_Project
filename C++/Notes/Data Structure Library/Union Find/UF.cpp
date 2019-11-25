@@ -56,7 +56,7 @@ class UF {
     int find(int x){
         if(f[x]==x)return f[x];
         //Path compression
-        f[x]= find(f[x]);
+        f[x]=find(f[x]);
         //return find
         return f[x];
     }
